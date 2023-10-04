@@ -1,2 +1,2 @@
-#!/bin/basho
-$(pwd)
+#!/bin/bash
+#pwd
