@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a..z}{a..z} | tr "00" ""
+echo {a..z}{a..z} | tr -d "00"
