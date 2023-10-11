@@ -1,2 +1,3 @@
 #!/bin/bash
-echo $((2#"BINARY"))
+result=((2#BINARY))
+echo $result
